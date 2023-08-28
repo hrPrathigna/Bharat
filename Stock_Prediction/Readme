@@ -1,0 +1,4 @@
+STOCK PREDICTION
+
+The objective is to predict the stock prices in order to make more informed and accurate investment decisions. We propose a stock price prediction system that integrates mathematical functions, machine learning, and other external factors for the purpose of achieving better stock prediction accuracy and issuing profitable trades.
+Dataset contains and price level increased and decreased and here we are using stock.csv file and the platform used was google colab notebook.
